@@ -24,7 +24,7 @@ service workers
 
 ### Installing
 
-You can download the project using the zip file.
+You can download the project using the zip file or clone it.
 
 ## Authors
 
